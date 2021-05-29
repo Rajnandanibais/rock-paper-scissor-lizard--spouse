@@ -1,2 +1,2 @@
-# rock-paper-scissor-lizard--spouse
- rockpaperscissorlizardspouse game using js
+# rock-paper-scissor-lizard--spock
+ rockpaperscissorlizardspock game using js
